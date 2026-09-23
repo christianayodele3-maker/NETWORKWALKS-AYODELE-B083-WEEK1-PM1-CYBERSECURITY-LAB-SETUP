@@ -1,9 +1,12 @@
 # NETWORKWALKS-B083-WEEK1-PM1-CYBERSECURITY-LAB-SETUP
 This is my cybersecurity Lab setup
-# 🔒 Cybersecurity Lab Environment Setup
+<div align="center">
 
-Building an isolated virtual lab for penetration testing and ethical hacking practice.
+# 🔐 Cybersecurity Lab Environment Setup
+
+**Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
